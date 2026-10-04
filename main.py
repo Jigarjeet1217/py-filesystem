@@ -1,0 +1,1 @@
+print('from',__file__)
